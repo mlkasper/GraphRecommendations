@@ -1,5 +1,3 @@
-//CSCI415; Saeed Salem, 2/10/2020
-//To compile: g++ -O3 -w assign1Graph.cpp -lpthread -o assign1Graph
 //To run: ./assign1Graph filename k
 // ./assign1Graph toyGraph1.txt 2
 
